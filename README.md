@@ -1,5 +1,4 @@
-# kyo-theme
-a discordbettet theme
+
 # Kyo theme
 A theme for Discord! (Requirements: DiscordBetter)
 
